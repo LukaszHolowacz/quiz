@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="next_question">Następne pytanie</string>
+    <string name="finish_quiz">Zakończ Quiz</string>
+</resources>
